@@ -1,0 +1,3 @@
+sugar & Double, color & String, bad & Boolean, iron Integer
+1000, red, true, 4, height
+55.0, blue, false, 2, low

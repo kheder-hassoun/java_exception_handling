@@ -1,0 +1,7 @@
+Age & Integer, Single & Boolean, Sugar & Double, Blood_Type & String, Pressure & Double, Eye_Colour & String, Leukocyte & Integer, Safe & Boolean
+     60      ,        0        ,     85.7      ,         O+         ,       12.3       ,        brown       ,        9376        ,       0       , High
+     54      ,      false      ,     43.2      ,         B+         ,       10.1       ,        blue        ,        11248       ,     true      , Low
+     23      ,        1        ,     40.3      ,         AB-        ,       9.4        ,        gray        ,        10900       ,       1       , Low
+     46      ,        0        ,     120.5     ,         O-         ,       16.7       ,        brown       ,        10244       ,     false     , High
+     29      ,        0        ,     38.5      ,         A+         ,       10.8       ,        black       ,        10750       ,       0       , Low
+     35      ,      true       ,     77.8      ,         AB+        ,       13.6       ,        green       ,        10083       ,       1       , High
